@@ -8,7 +8,7 @@ I'm passionate about **web development**, **programming**, and **multimedia**. I
 ## 💡 Skills and Technologies
 
 - **Web Development**: HTML, CSS, JavaScript, Bootstrap, React, MongoDB  
-- **Programming Languages**: Python  
+- **Programming Languages**: Python ,Java
 - **Tools & IDEs**: Git, GitHub, Android Studio, Visual Studio Code
 
 ---
