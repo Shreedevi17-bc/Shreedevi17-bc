@@ -20,7 +20,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 </p>
 
 ## Github Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiruba1018&theme=vision-friendly-dark&hide_border=false" alt="Kiruba1018" />.
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreedevi17&theme=vision-friendly-dark&hide_border=false" alt="Shreedevi17" />.
 
 ### Other Skills
 
