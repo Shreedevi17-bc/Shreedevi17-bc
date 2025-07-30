@@ -65,7 +65,8 @@ I'm passionate about **web development**, **programming**, and **multimedia**. I
 > - Repositories are public, or you enable contribution visibility for private repos in [GitHub profile settings](https://github.com/settings/profile).
 
 ---
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreedevi17-bc&theme=vision-friendly-dark&hide_border=false" alt="Shreedevi GitHub Stats" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreedevi17-bc)
 
 ## 🏆 Achievements
 
