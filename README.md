@@ -64,9 +64,8 @@ I'm passionate about **web development**, **programming**, and **multimedia**. I
 > - Your commits use your **GitHub-linked email**.
 > - Repositories are public, or you enable contribution visibility for private repos in [GitHub profile settings](https://github.com/settings/profile).
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreedevi17&theme=vision-friendly-dark&hide_border=false" alt="Shreedevi GitHub Stats" />
-
 ---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreedevi17-bc&theme=vision-friendly-dark&hide_border=false" alt="Shreedevi GitHub Stats" />
 
 ## 🏆 Achievements
 
