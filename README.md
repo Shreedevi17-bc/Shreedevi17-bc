@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Shreedevi
 
 Welcome to my GitHub profile!  
-I'm passionate about **web development**, **programming**, and **multimedia**. I love solving problems, building creative projects, and exploring new technologies.
+I'm a motivated computer science professional with a passion for data analysis, machine learning, and web development. I'm proficient in Python, SQL, HTML, CSS, and JavaScript, with experience in frameworks like Pandas and NumPy.
 
 ---
 
